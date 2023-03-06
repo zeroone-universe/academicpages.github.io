@@ -9,26 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-hi
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in GitHub, Gwangju Institute of Science and Technology, 2021
+* M.S. in Gwangju, Gwangju Institute of Science and Technology, 2023
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* VIV Lab. Digital Human Team, VIVESTUDIOS
+  * Dec. 2022- Feb. 2023
 
-* Fall 2015: Research Assistant
+* @ Speech and Audio Processing Laboratory, GIST
+  * Dec. 2021- Feb. 2023
+
+* Speech and Audio Processing Laboratory, GIST
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Professor Hub  
+
 Skills
 ======
 * Skill 1
