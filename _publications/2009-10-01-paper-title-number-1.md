@@ -1,7 +1,7 @@
 ---
-title: "시간 영역 멀티 스케일 인코더를 이용한 화자 검증"
+title: "Individual Sub-band Estimation Approach to Bandwidth Extension and Enhancement of Coded Speech"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
