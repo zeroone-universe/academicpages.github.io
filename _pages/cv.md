@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**Please contact me for the full CV**
+**Please contact me for full CV.**
 
 {% include base_path %}
 
@@ -21,16 +21,14 @@ Education
 
 Research experience
 ======
-* Research Intern @VIV Lab. Digital Human Team, VIVESTUDIOS
-  * Dec. 2022- Feb. 2023
+* **Research Intern** @VIV Lab. Digital Human Team, VIVESTUDIOS
+  * Dec. 2022- Feb. 2023 | Seoul, Korea
 
-* Research Assistant @Speech and Audio Processing Laboratory, GIST
-  * Mar. 2021- Feb. 2023
+* **Research Assistant** @Speech and Audio Processing Laboratory, GIST
+  * Mar. 2021- Feb. 2023 | Gwangju, Korea
 
-* Research Intern @Speech and Audio Processing Laboratory, GIST
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub  
+* **Research Intern** @Speech and Audio Processing Laboratory, GIST
+  * Jan. 2020- Feb. 2021 | Gwangju, Korea
 
 Skills
 ======
