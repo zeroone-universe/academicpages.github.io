@@ -25,19 +25,11 @@ Research experience
   * Dec. 2022- Feb. 2023 &#124; Seoul, Korea
 
 * **Research Assistant** @Speech and Audio Processing Laboratory, GIST
-  * Mar. 2021- Feb. 2023 | Gwangju, Korea
+  * Mar. 2021- Feb. 2023 &#124; Gwangju, Korea
 
 * **Research Intern** @Speech and Audio Processing Laboratory, GIST
-  * Jan. 2020- Feb. 2021 | Gwangju, Korea
+  * Jan. 2020- Feb. 2021 &#124; Gwangju, Korea
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -45,7 +37,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
+Patents
+======
+* 신종원, 장인선, 이태진, 황수중, 백승권, 성종모, 이은균, 임우택, 조병호, **최영원**, 한상욱, “오디오 신호 부호화 방법 및 부호화기, 오디오 신호 복호화 방법 및 복호화기,” **Korea (KR)** Patent, Application No. 10-2023-0003733, 2023.
+* 
 
 
 <!-- Talks
