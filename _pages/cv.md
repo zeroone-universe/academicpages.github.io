@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please contact me for the full CV
+**Please contact me for the full CV**
 
 {% include base_path %}
 
@@ -47,7 +47,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-**Please contact me for the full CV**
+
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
