@@ -21,13 +21,13 @@ Education
 
 Research experience
 ======
-* VIV Lab. Digital Human Team, VIVESTUDIOS
+* Research Intern @VIV Lab. Digital Human Team, VIVESTUDIOS
   * Dec. 2022- Feb. 2023
 
-* @ Speech and Audio Processing Laboratory, GIST
-  * Dec. 2021- Feb. 2023
+* Research Assistant @Speech and Audio Processing Laboratory, GIST
+  * Mar. 2021- Feb. 2023
 
-* Speech and Audio Processing Laboratory, GIST
+* Research Intern @Speech and Audio Processing Laboratory, GIST
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub  
@@ -46,7 +46,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+**Please contact me for the full CV**
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
