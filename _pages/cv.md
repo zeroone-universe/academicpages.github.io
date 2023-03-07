@@ -7,12 +7,17 @@ redirect_from:
   - /resume
 ---
 
+Please contact me for the full CV
+
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, Gwangju Institute of Science and Technology, 2021
-* M.S. in Gwangju, Gwangju Institute of Science and Technology, 2023
+* M.S. in Electrical Engineering and Computer Science, GIST, 2023
+  * Advised by Prof. Jong Won Shin
+  * Courses: Random Process, Digital Signal Processing, Digital Speech Signal Processing, Computer Vision, Detection and Estimation, 
+* B.S. in Electrical Engineering and Computer Science, GIST, 2021
+  * Integrated Minor in Economics and Business Administration
 
 Research experience
 ======
