@@ -21,7 +21,7 @@ Education
 
 Research experience
 ======
-* **Research Intern** @VIV Lab. Digital Human Team, VIVESTUDIOS
+* **Voice AI Research Intern** @VIV Lab. Digital Human Team, VIVESTUDIOS
   * Dec. 2022- Feb. 2023 &#124; Seoul, Korea
 
 * **Research Assistant** @Speech and Audio Processing Laboratory, GIST
