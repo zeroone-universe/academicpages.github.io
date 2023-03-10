@@ -36,9 +36,6 @@ Publications
 * **Youngwon Choi**, Eunkyun Lee, Inseon Jang, and Jong Won Shin, “Individual Sub-band Estimation Approach to Bandwidth Extension and Enhancement of Coded Speech,” in *IEEE International Conference on Acoustics, Speech and Signal Processing*, 2023. (Accepted) *
 * 한상욱, 변재욱, **최영원**, 신종원, “시간 영역 멀티 스케일 인코더를 이용한 화자 검증”, 한국통신학회 추계종합학술발표회, 2021년 11월. *
 
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 Patents
 ======
