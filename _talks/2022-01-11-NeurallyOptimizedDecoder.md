@@ -3,9 +3,9 @@ title: "Neurally Optimized Decoder for Low Bitrate Speech Codec"
 collection: talks
 type: "Lab Seminar"
 permalink: /talks/2022-01-11-NeurallyOptimizedDecoder
-venue: "SAPL"
+venue: "SAPL, GIST"
 date: 2022-01-11
-location: "Gwangju"
+location: "Gwangju, Korea"
 ---
 
 [랩 세미나] 2022.1.11(화) 10:30 ~
