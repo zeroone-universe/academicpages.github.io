@@ -12,4 +12,4 @@ location: "Gwangju"
 
 ㅁ 주제 : Neurally Optimized Decoder for Low Bitrate Speech Codec ㅁ 발표자 : 최영원
 
-[Presentation Material](http://academicpages.github.io/files/NeurallyOptimizedDecoder.pdf)
+[Presentation Material](http://zeroone-universe.github.io/files/NeurallyOptimizedDecoder.pdf)
