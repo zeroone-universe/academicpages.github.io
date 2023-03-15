@@ -1,11 +1,15 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Psychoacoustic Calibration of Loss Functions for Efficient End-to-End Neural Audio Coding"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+type: "Lab Seminar"
+permalink: /talks/2022-04-01-PsychoacousticLoss
+venue: "SAPL(GIST)"
+date: 2022-04-01
+location: "Gwangju, Korea"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+[랩 세미나] 4.1(금) 10:30 ~
+
+ㅁ 주제 : Psychoacoustic Calibration of Loss Functions for Efficient End-to-End Neural Audio Coding ㅁ 발표자 : 최영원
+
+[Presentation Material](http://zeroone-universe.github.io/files/PsychoacousticLoss.pdf)

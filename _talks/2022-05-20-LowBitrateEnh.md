@@ -1,13 +1,15 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Speech Enhancement for Low Bit Rate Speech Codec"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Lab Seminar"
+permalink: /talks/2022-05-20-LowBitrateEnh
+venue: "SAPL(GIST)"
+date: 2022-05-20
+location: "Gwangju, Korea"
 ---
 
-[More information here](http://exampleurl.com)
+[랩 세미나] 5.20(금) 10:30 ~
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+ㅁ주제 : Speech Enhancement for Low Bit Rate Speech Codec ㅁ발표자 : 최영원
+
+[Presentation Material](http://zeroone-universe.github.io/files/LowBitrateEnh.pdf)
