@@ -45,7 +45,7 @@ Patents
 Language
 ======
 * **Korean** Native
-* **English** TOEIC Speaking IH
+* **English** TOEIC Speaking IH 
 
 
 <!-- Talks
