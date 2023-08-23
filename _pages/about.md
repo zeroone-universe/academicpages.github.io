@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 I am working as a contract researcher in [SAPL](https://sapl.gist.ac.kr/) at [GIST](https://www.gist.ac.kr/en/main.html). I received my master's degree in 2023 and barchelor's degree in 2021 from the same lab where I am currently working, advised by [Prof. J. W. Shin](https://sapl.gist.ac.kr/professor). My research interests focus on **TTS(Text-to-Speech)**, **vocoders**, and **speech & audio codecs**. 
-
-I also worked as a **resident DJ** & **co-organizer** of nightclub named [Deepocean Lab](https://www.instagram.com/deepoceanlab_gwangju/?hl=en), where I was able to develop deeper interest in music and audio. Besides, I love weight training, watching soccer (especially K-league), and hiking. :)
